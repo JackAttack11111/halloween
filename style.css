@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.page1 {
+  color: orange;
+  text-align: center;
+  font-family: Kirang Haerang ;
+  font-size: 50px;
+}
+
+.page1_style {
+  border-width: 5px;
+  border-color: orange;
+  border-style: dotted solid double;
+  background-color: black;
+  background-image: url('image/Job_prisonnightmare.png');
+  background-size: 100%, 100%
+}
+
+.page1_text {
+  color: orange;
+  text-align: center;
+  font-family: Kirang Haerang;
+  font-size: 25px;
+}
+
+.
